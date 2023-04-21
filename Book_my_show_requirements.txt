@@ -1,0 +1,17 @@
+Map actions performed by different actors
+
+user 
+1. signup and login
+2. search and select the location
+3. search and select the movie/theatre and time of the show
+4. provide no. of people
+5. select the seats
+6. payment
+
+system
+1. provide the available list of movies, theatres and time of show at location
+2. shows the empty seat, occupied seats and selected seats by user => seat mangement
+3. payment
+4. Sends notification to mail and mobile as sms.
+
+
